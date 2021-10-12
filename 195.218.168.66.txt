@@ -1,0 +1,2 @@
+Note: Host seems down. If it is really up, but blocking our ping probes, try -P0
+Nmap finished: 1 IP address (0 hosts up) scanned in 2.196 seconds
