@@ -1,0 +1,37 @@
+Interesting ports on 66.102.2.1:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.2.2:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.2.4:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.3.1:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.3.2:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.3.4:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.4.1:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.4.2:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 66.102.4.4:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 4096 IP addresses (9 hosts up) scanned in 159.767 seconds

@@ -1,0 +1,185 @@
+Interesting ports on bs-in-f80.1e100.net (64.233.162.80):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f81.1e100.net (64.233.162.81):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f82.1e100.net (64.233.162.82):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f83.1e100.net (64.233.162.83):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f84.1e100.net (64.233.162.84):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f85.1e100.net (64.233.162.85):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f86.1e100.net (64.233.162.86):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f87.1e100.net (64.233.162.87):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f88.1e100.net (64.233.162.88):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f89.1e100.net (64.233.162.89):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f90.1e100.net (64.233.162.90):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f91.1e100.net (64.233.162.91):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f92.1e100.net (64.233.162.92):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f93.1e100.net (64.233.162.93):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f94.1e100.net (64.233.162.94):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f95.1e100.net (64.233.162.95):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f96.1e100.net (64.233.162.96):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f97.1e100.net (64.233.162.97):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f98.1e100.net (64.233.162.98):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f99.1e100.net (64.233.162.99):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f100.1e100.net (64.233.162.100):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f101.1e100.net (64.233.162.101):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f102.1e100.net (64.233.162.102):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f103.1e100.net (64.233.162.103):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f104.1e100.net (64.233.162.104):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f105.1e100.net (64.233.162.105):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f106.1e100.net (64.233.162.106):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f107.1e100.net (64.233.162.107):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f108.1e100.net (64.233.162.108):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f109.1e100.net (64.233.162.109):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f110.1e100.net (64.233.162.110):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f111.1e100.net (64.233.162.111):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f122.1e100.net (64.233.162.122):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f123.1e100.net (64.233.162.123):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.162.252:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.162.253:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.162.254:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.4:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.5:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.6:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f88.1e100.net (64.233.163.88):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f127.1e100.net (64.233.163.127):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on bs-in-f150.1e100.net (64.233.163.150):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.252:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.253:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 64.233.163.254:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 8192 IP addresses (46 hosts up) scanned in 223.010 seconds
