@@ -1,0 +1,237 @@
+Interesting ports on dhcp248-2-ekt.yandex.net (87.250.248.2):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-4-ekt.yandex.net (87.250.248.4):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-11-ekt.yandex.net (87.250.248.11):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-20-ekt.yandex.net (87.250.248.20):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-25-ekt.yandex.net (87.250.248.25):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-28-ekt.yandex.net (87.250.248.28):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-31-ekt.yandex.net (87.250.248.31):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-35-ekt.yandex.net (87.250.248.35):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-37-ekt.yandex.net (87.250.248.37):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-40-ekt.yandex.net (87.250.248.40):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-45-ekt.yandex.net (87.250.248.45):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-54-ekt.yandex.net (87.250.248.54):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-59-ekt.yandex.net (87.250.248.59):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-65-ekt.yandex.net (87.250.248.65):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-66-ekt.yandex.net (87.250.248.66):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-67-ekt.yandex.net (87.250.248.67):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-68-ekt.yandex.net (87.250.248.68):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-71-ekt.yandex.net (87.250.248.71):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-76-ekt.yandex.net (87.250.248.76):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-80-ekt.yandex.net (87.250.248.80):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-81-ekt.yandex.net (87.250.248.81):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-83-ekt.yandex.net (87.250.248.83):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-88-ekt.yandex.net (87.250.248.88):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-91-ekt.yandex.net (87.250.248.91):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-98-ekt.yandex.net (87.250.248.98):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-107-ekt.yandex.net (87.250.248.107):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-111-ekt.yandex.net (87.250.248.111):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-119-ekt.yandex.net (87.250.248.119):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-129-ekt.yandex.net (87.250.248.129):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-137-ekt.yandex.net (87.250.248.137):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-139-ekt.yandex.net (87.250.248.139):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-145-ekt.yandex.net (87.250.248.145):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-160-ekt.yandex.net (87.250.248.160):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-168-ekt.yandex.net (87.250.248.168):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-179-ekt.yandex.net (87.250.248.179):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-181-ekt.yandex.net (87.250.248.181):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-184-ekt.yandex.net (87.250.248.184):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-185-ekt.yandex.net (87.250.248.185):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-188-ekt.yandex.net (87.250.248.188):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-193-ekt.yandex.net (87.250.248.193):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-194-ekt.yandex.net (87.250.248.194):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-195-ekt.yandex.net (87.250.248.195):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-202-ekt.yandex.net (87.250.248.202):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-204-ekt.yandex.net (87.250.248.204):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-205-ekt.yandex.net (87.250.248.205):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-213-ekt.yandex.net (87.250.248.213):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-215-ekt.yandex.net (87.250.248.215):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-218-ekt.yandex.net (87.250.248.218):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-221-ekt.yandex.net (87.250.248.221):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-225-ekt.yandex.net (87.250.248.225):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-230-ekt.yandex.net (87.250.248.230):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-231-ekt.yandex.net (87.250.248.231):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-237-ekt.yandex.net (87.250.248.237):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-239-ekt.yandex.net (87.250.248.239):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-242-ekt.yandex.net (87.250.248.242):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-243-ekt.yandex.net (87.250.248.243):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-246-ekt.yandex.net (87.250.248.246):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dhcp248-248-ekt.yandex.net (87.250.248.248):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-fol-vlan568-2.yandex.net (87.250.248.254):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 256 IP addresses (59 hosts up) scanned in 11.730 seconds

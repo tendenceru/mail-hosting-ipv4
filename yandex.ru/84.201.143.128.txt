@@ -1,0 +1,85 @@
+Interesting ports on net-ams-vlanif640.yandex.net (84.201.143.128):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach1l.mail.yandex.net (84.201.143.129):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach2l.mail.yandex.net (84.201.143.130):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach3l.mail.yandex.net (84.201.143.131):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach4l.mail.yandex.net (84.201.143.132):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach5l.mail.yandex.net (84.201.143.133):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mail-proxy1l.mail.yandex.net (84.201.143.134):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mail-proxy2l.mail.yandex.net (84.201.143.135):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward3l.mail.yandex.net (84.201.143.136):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward4l.mail.yandex.net (84.201.143.137):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward5l.mail.yandex.net (84.201.143.138):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward6l.mail.yandex.net (84.201.143.139):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward7l.mail.yandex.net (84.201.143.140):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward8l.mail.yandex.net (84.201.143.141):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward9l.mail.yandex.net (84.201.143.142):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward10l.mail.yandex.net (84.201.143.143):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward1l.mail.yandex.net (84.201.143.144):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward2l.mail.yandex.net (84.201.143.145):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb2010a.mail.yandex.net (84.201.143.152):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ams-vlanif640.yandex.net (84.201.143.190):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 84.201.143.191:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 64 IP addresses (21 hosts up) scanned in 7.179 seconds

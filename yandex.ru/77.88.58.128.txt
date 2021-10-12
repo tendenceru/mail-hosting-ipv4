@@ -1,0 +1,129 @@
+Interesting ports on api-balancer01d.tools.yandex.net (77.88.58.131):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on help2.yandex-team.ru (77.88.58.132):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on svn-gpfs-02.yandex.ru (77.88.58.134):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on pamir.yandex.ru (77.88.58.136):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on argali.yandex.ru (77.88.58.137):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on gandalf.yandex.ru (77.88.58.139):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on aragorn.yandex.ru (77.88.58.140):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sieve.yandex.ru (77.88.58.141):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on arcadia-ugr.yandex.ru (77.88.58.144):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on argo3.yandex.ru (77.88.58.145):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on zanzibar.yandex.net (77.88.58.146):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on github-ugr-01.yandex.net (77.88.58.147):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on github.yandex-team.ru (77.88.58.151):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on racoon.yandex.ru (77.88.58.152):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sklad2-n.yandex-team.ru (77.88.58.157):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on lucifier.yandex.ru (77.88.58.158):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sati.yandex.ru (77.88.58.159):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on zee.yandex.ru (77.88.58.160):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on morgoth.yandex.ru (77.88.58.162):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on lucas.yandex.ru (77.88.58.164):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mordor.yandex.ru (77.88.58.165):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on moria.yandex.ru (77.88.58.166):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on melophone.yandex.ru (77.88.58.167):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on draw.yandex.ru (77.88.58.169):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on vesteros.yandex.ru (77.88.58.171):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on rosenborg.yandex.ru (77.88.58.175):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on tree.yandex.ru (77.88.58.177):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on astra.yandex.ru (77.88.58.179):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on wheatberry.yandex.ru (77.88.58.187):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on blackberry.yandex.ru (77.88.58.188):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap-external.yandex.ru (77.88.58.189):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr1-vlan629-2.yandex.net (77.88.58.190):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 64 IP addresses (32 hosts up) scanned in 12.917 seconds

@@ -1,0 +1,1065 @@
+Interesting ports on mdbstats1.mail.yandex.net (77.88.60.1):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb360.mail.yandex.net (77.88.60.3):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb310.mail.yandex.net (77.88.60.5):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sky-test.mail.yandex.net (77.88.60.6):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap6e.mail.yandex.net (77.88.60.13):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap7e.mail.yandex.net (77.88.60.14):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web12e.yandex.ru (77.88.60.15):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web13e.yandex.ru (77.88.60.16):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web14e.yandex.ru (77.88.60.17):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web15e.yandex.ru (77.88.60.18):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web16e.yandex.ru (77.88.60.19):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap10e.mail.yandex.net (77.88.60.20):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web17e.yandex.ru (77.88.60.21):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web18e.yandex.ru (77.88.60.22):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web19e.yandex.ru (77.88.60.23):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web20e.yandex.ru (77.88.60.24):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on oo5e.mail.yandex.net (77.88.60.25):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach6e.mail.yandex.net (77.88.60.27):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach7e.mail.yandex.net (77.88.60.28):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap8e.mail.yandex.net (77.88.60.29):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on fairy2.yandex.ru (77.88.60.30):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach8e.mail.yandex.net (77.88.60.31):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach9e.mail.yandex.net (77.88.60.32):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach10e.mail.yandex.net (77.88.60.33):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mxbackcorp1e.mail.yandex.net (77.88.60.34):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av19.mail.yandex.net (77.88.60.39):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av15.mail.yandex.net (77.88.60.40):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av17.mail.yandex.net (77.88.60.42):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on spamstat.yandex.ru (77.88.60.43):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb310a.mail.yandex.net (77.88.60.44):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb310a-virt.mail.yandex.net (77.88.60.46):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb310b-virt.mail.yandex.net (77.88.60.47):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb370c.mail.yandex.net (77.88.60.48):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on settings03d.mail.yandex.net (77.88.60.52):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on settings04d.mail.yandex.net (77.88.60.53):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mconsole.yandex.ru (77.88.60.56):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on webtest-wmi.yandex.ru (77.88.60.57):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so4e.mail.yandex.net (77.88.60.64):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so5e.mail.yandex.net (77.88.60.65):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so6e.mail.yandex.net (77.88.60.66):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so7e.mail.yandex.net (77.88.60.67):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb180a.mail.yandex.net (77.88.60.68):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on vmmailugr.mail.yandex.net (77.88.60.73):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web5e.yandex.ru (77.88.60.74):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web6e.yandex.ru (77.88.60.75):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web7e.yandex.ru (77.88.60.76):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb301b.mail.yandex.net (77.88.60.77):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av18.mail.yandex.net (77.88.60.78):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch60a.mail.yandex.net (77.88.60.79):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web116.yandex.ru (77.88.60.86):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web117.yandex.ru (77.88.60.89):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web118.yandex.ru (77.88.60.95):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dns2.mail.yandex.net (77.88.60.97):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb320a.mail.yandex.net (77.88.60.98):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb300d.mail.yandex.net (77.88.60.99):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdbdir4.mail.yandex.net (77.88.60.100):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb360a.mail.yandex.net (77.88.60.102):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on oo3e.mail.yandex.net (77.88.60.105):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb360a-virt.mail.yandex.net (77.88.60.107):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap9e.mail.yandex.net (77.88.60.110):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb360b-virt.mail.yandex.net (77.88.60.117):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mxcorp2.mail.yandex.net (77.88.60.120):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docfront2e.yandex.ru (77.88.60.121):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward6.mail.yandex.net (77.88.60.125):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr-vlan640-p1.yandex.net (77.88.60.126):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdb-backup2.mail.yandex.net (77.88.60.131):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on qa1.mail.yandex.net (77.88.60.132):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca32a.mail.yandex.net (77.88.60.133):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca33a.mail.yandex.net (77.88.60.134):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca34a.mail.yandex.net (77.88.60.135):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca35a.mail.yandex.net (77.88.60.136):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca36a.mail.yandex.net (77.88.60.137):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca37a.mail.yandex.net (77.88.60.138):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca63a.mail.yandex.net (77.88.60.139):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on logstore-ugr.mail.yandex.net (77.88.60.140):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca41a.mail.yandex.net (77.88.60.142):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cacher1.mail.yandex.net (77.88.60.143):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web4e.yandex.ru (77.88.60.144):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web3e.yandex.ru (77.88.60.145):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web2e.yandex.ru (77.88.60.146):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web1e.yandex.ru (77.88.60.147):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so9e.mail.yandex.net (77.88.60.148):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so8e.mail.yandex.net (77.88.60.149):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web8e.yandex.ru (77.88.60.150):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web9e.yandex.ru (77.88.60.151):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web10e.yandex.ru (77.88.60.152):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so10e.mail.yandex.net (77.88.60.153):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so3e.mail.yandex.net (77.88.60.154):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so2e.mail.yandex.net (77.88.60.155):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on so1e.mail.yandex.net (77.88.60.156):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on shingler2.mail.yandex.net (77.88.60.157):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on service10.mail.yandex.net (77.88.60.158):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on spamstat1e.mail.yandex.net (77.88.60.159):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on vmhost1e.mail.yandex.net (77.88.60.160):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cacher03d.mail.yandex.net (77.88.60.161):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cacher04d.mail.yandex.net (77.88.60.162):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on furita03d.mail.yandex.net (77.88.60.163):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on furita04d.mail.yandex.net (77.88.60.164):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cacher2.mail.yandex.net (77.88.60.165):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca169b.mail.yandex.net (77.88.60.173):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca170b.mail.yandex.net (77.88.60.174):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on xiva1e.mail.yandex.net (77.88.60.175):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on xiva2e.mail.yandex.net (77.88.60.176):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on xiva3e.mail.yandex.net (77.88.60.179):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on xiva4e.mail.yandex.net (77.88.60.180):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on x4web1e.yandex.ru (77.88.60.181):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web115.yandex.ru (77.88.60.182):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on oo2e.mail.yandex.net (77.88.60.185):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch70a.mail.yandex.net (77.88.60.186):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch90a.mail.yandex.net (77.88.60.191):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 77.88.60.192:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on yaback2.mail.yandex.net (77.88.60.193):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on import2e.mail.yandex.net (77.88.60.194):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on logstore1e.so.yandex.net (77.88.60.195):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward-corp1e.mail.yandex.net (77.88.60.199):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on rimap1e.mail.yandex.net (77.88.60.201):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on outback1e.mail.yandex.net (77.88.60.202):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on outback2e.mail.yandex.net (77.88.60.203):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch-proxy2.mail.yandex.net (77.88.60.204):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca45a.mail.yandex.net (77.88.60.205):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca46a.mail.yandex.net (77.88.60.206):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca47a.mail.yandex.net (77.88.60.207):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch100a.mail.yandex.net (77.88.60.208):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca49a.mail.yandex.net (77.88.60.209):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca50a.mail.yandex.net (77.88.60.210):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca51a.mail.yandex.net (77.88.60.211):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca52a.mail.yandex.net (77.88.60.212):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca53a.mail.yandex.net (77.88.60.213):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca54a.mail.yandex.net (77.88.60.214):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on queue1m.mail.yandex.net (77.88.60.215):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on solog1e.mail.yandex.net (77.88.60.217):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch122a.mail.yandex.net (77.88.60.218):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch192a.mail.yandex.net (77.88.60.219):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch302a.mail.yandex.net (77.88.60.220):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch312a.mail.yandex.net (77.88.60.221):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch332a.mail.yandex.net (77.88.60.222):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on service9.mail.yandex.net (77.88.60.225):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on service7.mail.yandex.net (77.88.60.226):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on oo4e.mail.yandex.net (77.88.60.227):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch190a.mail.yandex.net (77.88.60.229):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch160a.mail.yandex.net (77.88.60.231):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on oo1e.mail.yandex.net (77.88.60.248):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr-vlan640-p2.yandex.net (77.88.60.254):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web21e.yandex.ru (77.88.61.1):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web22e.yandex.ru (77.88.61.2):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web23e.yandex.ru (77.88.61.3):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web24e.yandex.ru (77.88.61.4):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web25e.yandex.ru (77.88.61.5):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web26e.yandex.ru (77.88.61.6):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web27e.yandex.ru (77.88.61.7):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web28e.yandex.ru (77.88.61.8):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web29e.yandex.ru (77.88.61.9):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web30e.yandex.ru (77.88.61.10):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca73a.mail.yandex.net (77.88.61.12):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mdbdir4-stor.mail.yandex.net (77.88.61.14):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca62a.mail.yandex.net (77.88.61.19):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca64a.mail.yandex.net (77.88.61.21):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca65a.mail.yandex.net (77.88.61.22):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca66a.mail.yandex.net (77.88.61.23):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca67a.mail.yandex.net (77.88.61.24):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca68a.mail.yandex.net (77.88.61.25):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca69a.mail.yandex.net (77.88.61.26):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca70a.mail.yandex.net (77.88.61.27):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca71a.mail.yandex.net (77.88.61.28):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca168b.mail.yandex.net (77.88.61.30):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca88b.mail.yandex.net (77.88.61.32):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca89b.mail.yandex.net (77.88.61.33):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web-qa.yandex.ru (77.88.61.34):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on smtp9.mail.yandex.net (77.88.61.35):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on smtpcorp2.mail.yandex.net (77.88.61.36):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward7.mail.yandex.net (77.88.61.37):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward8.mail.yandex.net (77.88.61.38):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av20.mail.yandex.net (77.88.61.43):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av13.mail.yandex.net (77.88.61.46):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on av14.mail.yandex.net (77.88.61.47):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward9.mail.yandex.net (77.88.61.48):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on forward10.mail.yandex.net (77.88.61.49):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on web11e.yandex.ru (77.88.61.50):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on smtp8.mail.yandex.net (77.88.61.54):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on smtp7.mail.yandex.net (77.88.61.55):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on smtp6.mail.yandex.net (77.88.61.56):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach1e.mail.yandex.net (77.88.61.57):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach2e.mail.yandex.net (77.88.61.58):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on import1e.mail.yandex.net (77.88.61.62):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mstat4.mail.yandex.net (77.88.61.66):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca202a.mail.yandex.net (77.88.61.67):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch72a.mail.yandex.net (77.88.61.70):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch132a.mail.yandex.net (77.88.61.71):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch12b.mail.yandex.net (77.88.61.72):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch22a.mail.yandex.net (77.88.61.73):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch32a.mail.yandex.net (77.88.61.74):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca203a.mail.yandex.net (77.88.61.75):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch62a.mail.yandex.net (77.88.61.76):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imapcorp3e.mail.yandex.net (77.88.61.77):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca205b.mail.yandex.net (77.88.61.78):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch92a.mail.yandex.net (77.88.61.79):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach3e.mail.yandex.net (77.88.61.80):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach4e.mail.yandex.net (77.88.61.81):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on attach5e.mail.yandex.net (77.88.61.82):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch310a.mail.yandex.net (77.88.61.83):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on 77.88.61.85:
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca171b.mail.yandex.net (77.88.61.86):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on msearch102a.mail.yandex.net (77.88.61.87):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca111b.mail.yandex.net (77.88.61.88):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca112b.mail.yandex.net (77.88.61.89):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca113b.mail.yandex.net (77.88.61.90):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca122a.mail.yandex.net (77.88.61.91):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca126a.mail.yandex.net (77.88.61.92):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca127a.mail.yandex.net (77.88.61.93):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca121a.mail.yandex.net (77.88.61.94):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca123a.mail.yandex.net (77.88.61.95):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca124a.mail.yandex.net (77.88.61.96):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca125a.mail.yandex.net (77.88.61.97):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca7a.mail.yandex.net (77.88.61.98):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca6a.mail.yandex.net (77.88.61.99):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca5a.mail.yandex.net (77.88.61.100):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca37b.mail.yandex.net (77.88.61.101):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca31b.mail.yandex.net (77.88.61.102):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca31a.mail.yandex.net (77.88.61.103):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca30b.mail.yandex.net (77.88.61.104):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca30a.mail.yandex.net (77.88.61.105):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca29b.mail.yandex.net (77.88.61.106):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca29a.mail.yandex.net (77.88.61.107):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca28b.mail.yandex.net (77.88.61.108):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca28a.mail.yandex.net (77.88.61.109):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca26b.mail.yandex.net (77.88.61.110):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca26a.mail.yandex.net (77.88.61.111):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca25b.mail.yandex.net (77.88.61.112):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca25a.mail.yandex.net (77.88.61.113):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca23a.mail.yandex.net (77.88.61.114):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca22a.mail.yandex.net (77.88.61.115):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on sasulca120a.mail.yandex.net (77.88.61.116):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr-vlan640-p3.yandex.net (77.88.61.126):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on csearch1e.mail.yandex.net (77.88.61.129):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on webcorp2e.yandex-team.ru (77.88.61.131):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on webcorp1e.yandex-team.ru (77.88.61.132):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on rpop1e.mail.yandex.net (77.88.61.134):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on rpop2e.mail.yandex.net (77.88.61.135):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on tormoz2.mail.yandex.net (77.88.61.136):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imapcorp1e.mail.yandex.net (77.88.61.166):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imapcorp2e.mail.yandex.net (77.88.61.167):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on xivacorp1e.mail.yandex.net (77.88.61.168):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mxcomcorp1e.mail.yandex.net (77.88.61.170):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap1e.mail.yandex.net (77.88.61.216):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap2e.mail.yandex.net (77.88.61.217):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap3e.mail.yandex.net (77.88.61.219):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap4e.mail.yandex.net (77.88.61.220):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on imap5e.mail.yandex.net (77.88.61.221):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on spamtext1h.so.yandex.net (77.88.61.222):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docfront1e.yandex.ru (77.88.61.223):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on service6.mail.yandex.net (77.88.61.228):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on calendar1e.mail.yandex.net (77.88.61.230):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback01d.mail.yandex.net (77.88.61.231):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback02d.mail.yandex.net (77.88.61.232):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback03d.mail.yandex.net (77.88.61.233):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback04d.mail.yandex.net (77.88.61.234):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback05d.mail.yandex.net (77.88.61.235):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback06d.mail.yandex.net (77.88.61.236):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback07d.mail.yandex.net (77.88.61.237):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback08d.mail.yandex.net (77.88.61.238):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback09d.mail.yandex.net (77.88.61.239):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback10d.mail.yandex.net (77.88.61.240):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback11d.mail.yandex.net (77.88.61.241):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on docback12d.mail.yandex.net (77.88.61.242):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on dosya.yandex.ru (77.88.61.250):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr-vlan640-p4.yandex.net (77.88.61.254):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 512 IP addresses (266 hosts up) scanned in 25.925 seconds

@@ -1,0 +1,29 @@
+Interesting ports on pelican.yandex.ru (93.158.136.49):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on griffon.yandex.ru (93.158.136.50):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on mammoth.yandex.ru (93.158.136.51):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on archeopterix.yandex.ru (93.158.136.52):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on neo.yandex.ru (93.158.136.53):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on morpheus.yandex.ru (93.158.136.54):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-ugr-vlan647.yandex.net (93.158.136.62):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 16 IP addresses (7 hosts up) scanned in 6.368 seconds

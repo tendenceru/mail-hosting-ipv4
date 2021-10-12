@@ -1,0 +1,125 @@
+Interesting ports on proxy-stav01.cdn.yandex.net (213.180.223.207):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on proxy-stav01.video.yandex.net (213.180.223.209):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on proxy-stav02.video.yandex.net (213.180.223.210):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on downloader-stav5.disk.yandex.ru (213.180.223.211):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on downloader-stav4.disk.yandex.ru (213.180.223.212):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on downloader-stav3.disk.yandex.ru (213.180.223.213):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on downloader-stav2.disk.yandex.ru (213.180.223.214):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on downloader-stav1.disk.yandex.ru (213.180.223.215):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on ncache-stav05.video.yandex.net (213.180.223.216):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on ncache-stav04.video.yandex.net (213.180.223.217):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on ncache-stav03.video.yandex.net (213.180.223.218):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on ncache-stav02.video.yandex.net (213.180.223.219):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on ncache-stav01.video.yandex.net (213.180.223.220):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav05.music.yandex.ru (213.180.223.221):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav04.music.yandex.ru (213.180.223.222):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav03.music.yandex.ru (213.180.223.223):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav02.music.yandex.ru (213.180.223.224):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav01.music.yandex.ru (213.180.223.225):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav05.cdn.yandex.net (213.180.223.226):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav04.cdn.yandex.net (213.180.223.227):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav03.cdn.yandex.net (213.180.223.228):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav02.cdn.yandex.net (213.180.223.229):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav01.cdn.yandex.net (213.180.223.230):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav02.photo.yandex.net (213.180.223.238):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on cache-stav01.photo.yandex.net (213.180.223.239):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on stav-srv05.regions.yandex.net (213.180.223.247):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on stav-srv04.regions.yandex.net (213.180.223.248):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on stav-srv03.regions.yandex.net (213.180.223.249):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on stav-srv02.regions.yandex.net (213.180.223.250):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on stav-srv01.regions.yandex.net (213.180.223.251):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Interesting ports on core-stw-vlan659.yandex.net (213.180.223.254):
+PORT   STATE    SERVICE VERSION
+25/tcp filtered smtp
+
+Nmap finished: 64 IP addresses (31 hosts up) scanned in 14.618 seconds
